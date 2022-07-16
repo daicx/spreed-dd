@@ -52,6 +52,7 @@ use OCP\IUser;
 use OCP\IUserManager;
 use Psr\Log\LoggerInterface;
 
+//信令接口
 class SignalingController extends OCSController {
 
 	/** @var int */
